@@ -1,0 +1,6 @@
+*.js.map
+*.ts
+.git*
+.vscode
+test
+tsconfig.json
