@@ -1,0 +1,15 @@
+{
+  "name": "blobindexfunc",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/arm-authorization": "^8.4.1",
+    "@azure/identity": "^2.0.1",
+    "@azure/storage-blob": "^12.8.0",
+    "uuid": "^8.3.2"
+  }
+}
