@@ -1,0 +1,13 @@
+[
+    {
+      "additionalProperties": null,
+      "resourceAccess": [
+        {
+          "additionalProperties": null,
+          "id": "03e0da56-190b-40ad-a80c-ea378c433f7f",
+          "type": "Scope"
+        }
+      ],
+      "resourceAppId": "e406a681-f3d4-42a8-90b6-c2b029497af1"
+    }
+  ]
