@@ -73,7 +73,7 @@ Components to be configured:
 
 authConfig.js - This is where Azure Active Directory integration is configured (clientId and authority/tenant) as well as Azure Storage integration (accountendpoint, readsastoken and createtempblobsastoken).
 
-The function also uses javascript and looks like the syntax in the web application. It contains one function which does three operations. 
+The function is also in javascript and looks like the syntax in the web application. It contains one function which does the three operations. 
 
 ## BlobIndexReact Implementation
 
