@@ -51,7 +51,7 @@ Many customers automatically reach out to a web server and database server when 
 ## Overview of BlobIndexReact and how it works
 
 ![Sample services](./docs/sample_services.png "Sample services")
-1. In its simplest for this sample only uses a storage account with two containers; one for the product images and another for the web application. Now the user can browse categories, products, product details and add items to the shopping cart. 
+1. In its simplest form this sample only uses a storage account with two containers; one for the product images and another for the web application. Now the user can browse categories, products, product details and add items to the shopping cart. 
 
 2. Before the user can store data, they have to be authenticated with Azure Active Directory.
 
