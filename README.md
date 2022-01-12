@@ -30,7 +30,7 @@ BlobIndexReact is a sample application in React to help Azure customers work wit
 | `docs` | Documentation to describe the solution |
 | `function` | Azure function to handle blob events from event grid |
 | `scripts` | Scripts to deploy the solution | 
-| `web` | The single-page application in React |
+| `web` | The React single-page application |
 
 ## Read Me Contents <!-- omit in toc -->
 
