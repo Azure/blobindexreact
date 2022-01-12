@@ -1,11 +1,11 @@
 ---
 page_type: sample
-name: blobindexreact
+name: BlobIndexReact
 topic: sample
 description: | 
-  BlobIndexReact is a sample application in React to help Azure customers work with blob storage, tags, index, Azure active directory, role-based access control, and event handlers using Event Grid and Azure Functions.
+  BlobIndexReact is a sample application in React to help Azure customers work with blob storage, tags, index, role-based access control, and event handlers.
 languages:
-  - react
+  - azurecli
   - javascript
 products: 
   - azure
