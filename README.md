@@ -66,7 +66,9 @@ This sample focuses on Azure Storage and how to interact with it using javascrip
 
 ## BlobIndexReact Components
 
-The web application is a single-page app using React. The sample should be understandable and reuseable for other frameworks in the javascript ecosystem. It extends the AAD React sample that has MsalProvider as it's root, so the security context as available everywhere. Next is the CartContext, which is also available throughout the app, so that in productdetails and cart it can be updated, and the cartsummary in the navbar can also display its content. Lastly there is the pagelayout that loads both the navbar header components as well as the routes in which all screens are rendered. 
+The web application is a single-page app using React. The sample should be understandable and reuseable for other frameworks in the javascript ecosystem. It uses npm to manage [external packages](./docs/packages.md). 
+
+It extends the AAD React sample that has MsalProvider as it's root, so the security context as available everywhere. Next is the CartContext, which is also available throughout the app, so that in productdetails and cart it can be updated, and the cartsummary in the navbar can also display its content. Lastly there is the pagelayout that loads both the navbar header components as well as the routes in which all screens are rendered. 
 
 Components to be configured: 
 
